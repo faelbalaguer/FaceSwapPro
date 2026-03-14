@@ -1,0 +1,2 @@
+rootProject.name = "FaceSwapPro"
+include(":app")
